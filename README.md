@@ -11,3 +11,4 @@ go get github.com/go-sql-driver/mysql
 go get github.com/gin-gonic/gin
 go get github.com/jinzhu/gorm
 after installing all of the dependencies we set database connection with mysql server and change database.go file and set username,password,database name as mysql server.
+also attached Screenshot of the postman for the test the api.
